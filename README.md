@@ -1,0 +1,2 @@
+# HydraJsClient
+Hydra JavaScript Client
